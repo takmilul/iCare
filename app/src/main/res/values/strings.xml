@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">iCare</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="hello_world">Hello world</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_diet_chart">ViewDietChartActivity</string>
+    <string name="title_activity_update_diet">Update Diet</string>
+    <string-array name="general_info_header">
+        <item>Flu</item>
+        <item>Diabetes</item>
+        <item>Blood Glucose Levels</item>
+        <item>Weight</item>
+        <item>Stress</item>
+        <item>High Blood Pressure</item>
+        <item>Nutrition</item>
+        <item>Healthy Eating Plan</item>
+        <item>Calories</item>
+        <item>Eating and Diabetes</item>
+        <item>Importance of Vaccines</item>
+        <item>Infant and Child Vaccines</item>
+        <item>Chickenpox (varicella)</item>
+        <item>Diphtheria, Tetanus, Pertussis (whooping cough)</item>
+        <item>Diphtheria, Tetanus, Pertussis (whooping cough)</item>
+        <item>Haemophilus influenzae type b(HIB)</item>
+        <item>Hepatitis A</item>
+        <item>Hepatitis B</item>
+        <item>Influenza</item>
+        <item>Measles, Mumps, Rubella</item>
+        <item>Meningococcal</item>
+        <item>Pneumococcal</item>
+        <item>Polio</item>
+        <item>Rotavirus</item>
+        <item>Whooping cough (pertussis) booster</item>
+    </string-array>
+    <string-array name="general_info_body">
+        <item>Flu is a respiratory infection caused by a number of viruses. The viruses pass through the air and enter your body through your nose or mouth. The flu can be serious or even deadly for elderly people, newborn babies, and people with certain chronic illnesses.
+Symptoms of the flu come on suddenly and are worse than those of the common cold. They may include: Body or muscle aches, Chills, Cough, Fever, Headache, Sore throat.
+</item>
+        <item>Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from the foods you eat. Insulin is a hormone that helps the glucose get into your cells to give them energy. With type 1 diabetes, your body does not make insulin. With type 2 diabetes, the more common type, your body does not make or use insulin well. Without enough insulin, the glucose stays in your blood. You can also have pre diabetes. This means that your blood sugar is higher than normal but not high enough to be called diabetes. Having pre diabetes puts you at a higher risk of getting type 2 diabetes.</item>
+        <item>What should my blood glucose levels be?
+Target Blood Glucose Levels for People with Diabetes:
+Before meals: 1 to 2 hours after the start of a meal.
+70 to 130: less than 180.
+How can I keep my blood glucose levels on target?
+You can keep your blood glucose levels on target by making wise food choices, being physically active, and taking medicines if needed
+</item>
+        <item>What is a healthy weight?
+Body mass index (BMI) is one way to tell whether you are at a healthy weight, overweight, or obese. It measures your weight in relation to your height. A BMI of 18.5 to 24.9 is in the healthy range.  A person with a BMI of 25 to 29.9 is considered overweight, and someone with a BMI of 30 or greater is considered obese. You may also check the Resources section at the end of this booklet for a link to an online tool for measuring BMI. Another way to find out if you are at risk for health problems caused by overweight and obesity is to measure your waist. If you are a woman and your waist is more than 35 inches, or if you are a man and your waist is more than 40 inches, your risk of disease may be higher.
+</item>
+        <item>Being Good to Yourself
+Many people feel stress in their daily lives. Stress can cause you to overeat, feel tired, and not want to do anything. Healthy eating and regular physical activity may help offset the effects of stress.
+Try some of these other ideas to help relieve stress and stay on track with improving your health: Get plenty of sleep, Practice deep breathing while relaxing your muscles one at a time, Take a break and go for a walk, Add short stretch breaks to your day, Try a new hobby or any activity that sparks your interest and  Surround yourself with people whose company you enjoy.
+A balanced eating plan, regular physical activity, and stress relief may help you stay healthy for life.
+</item>
+        <item>High blood pressure is a common disease in which blood flows through blood vessels (arteries) at higher than normal pressures.</item>
+        <item>Blood pressure is the force of blood pushing against the walls of the arteries as the heart pumps blood. High blood pressure, sometimes called hypertension, happens when this force is too high. Health care workers check blood pressure readings the same way for children, teens, and adults. They use a gauge, stethoscope or electronic sensor, and a blood pressure cuff. With this equipment, they measure:
+Systolic Pressure: blood pressure when the heart beats while pumping blood
+Diastolic Pressure: blood pressure when the heart is at rest between beats
+</item>
+        <item>Food provides the energy and nutrients you need to be healthy. Nutrients include proteins, carbohydrates, fats, vitamins, minerals, and water.
+Healthy eating is not hard. The key is to: Eat a variety of foods, including vegetables, fruits, and whole-grain products, Eat lean meats, poultry, fish, beans, and low-fat dairy products, and Drink lots of water, Limit salt, sugar, alcohol, saturated fat, and trans fat in your diet
+Saturated fats are usually fats that come from animals. Look for trans-fat on the labels of processed foods, margarines, and shortenings.
+</item>
+        <item>A healthy eating plan gives your body the nutrients it needs every day while staying within your daily calorie goal for weight loss. A healthy eating plan also will lower your risk for heart disease and other health conditions.
+A healthy eating plan:
+Emphasizes vegetables, fruits, whole grains, and fat-free or low-fat dairy products
+Includes lean meats, poultry, fish, beans, eggs, and nuts
+Limits saturated and trans fats, sodium, and added sugars
+Controls portion sizes
+</item>
+        <item>To lose weight, most people need to reduce the number of calories they get from food and beverages (energy IN) and increase their physical activity (energy OUT).
+For a weight loss of 1–1 ½ pounds per week, daily intake should be reduced by 500 to 750 calories. In general:
+Eating plans that contain 1,200–1,500 calories each day will help most women lose weight safely.
+Eating plans that contain 1,500–1,800 calories each day are suitable for men and for women who weigh more or who exercise regularly.
+Very low calorie diets of fewer than 800 calories per day should not be used unless you are being monitored by your doctor.
+</item>
+        <item>What I need to know about Eating and Diabetes:
+You can take good care of yourself and your diabetes by learning what to eat, how much to eat and when to eat.
+Making wise food choices can help you feel good every day, lose weight if you need to and lower your risk for heart disease, stroke, and other problems caused by diabetes
+Healthful eating helps keep your blood glucose, also called blood sugar, in your target range. Physical activity and, if needed, diabetes medicines also help. The diabetes target range is the blood glucose level suggested by diabetes experts for good health. You can help prevent health problems by keeping your blood glucose levels on target.
+</item>
+        <item>Parents want to do everything possible to make sure their children are healthy and protected from preventable diseases. Vaccination is the best way to do that.
+Vaccination protects children from serious illness and complications of vaccine-preventable diseases which can include amputation of an arm or leg, paralysis of limbs, hearing loss, convulsions, brain damage, and death.
+Vaccine-preventable diseases, such as measles, mumps, and whooping cough, are still a threat. They continue to infect children, resulting in hospitalizations and deaths every year.
+</item>
+        <item>By following the recommended vaccination schedule, you help protect your child against 15 vaccine preventable diseases. If your child misses a dose or gets behind schedule, make sure they get the next dose as soon as possible. Ask your child\'s healthcare provider if your child is up to date with all recommended vaccines</item>
+        <item>Your child should receive 2 doses of chickenpox vaccine. The first dose should be given at 12–15 months, and the second dose at 4–6 years.</item>
+        <item>Your child should receive 5 doses of DTaP. The first dose should be given at 2 months, the second dose at 4 months, the third dose at 6 months, the fourth dose at 15–18 months, and the fifth dose at 4–6 years. </item>
+        <item>Your child should receive 5 doses of DTaP. The first dose should be given at 2 months, the second dose at 4 months, the third dose at 6 months, the fourth dose at 15–18 months, and the fifth dose at 4–6 years.</item>
+        <item>Your child should receive 3–4 doses of Hib vaccine (depending on the brand of vaccine). The first dose should be given at 2 months, the second dose at 4 months, the third dose at 6 months (if needed), and the last dose at 12–15 months.</item>
+        <item>Your child should receive 2 doses of hepatitis A vaccine. The first dose should be given at age 1 year and the second 6 to 18 months later.</item>
+        <item>Your child should receive 3 doses of hepatitis B vaccine. The first dose should be given at birth, the second dose at 1 to 2 months, and the third dose at 6 to 18 months. Sometimes children receive 4 doses of hepatitis B vaccine if they are receiving a combination vaccine.</item>
+        <item>Every person, beginning at age 6 months and continuing throughout their lifetime, should receive yearly vaccination against influenza in the fall or winter. Vaccination is the most effective step you can take to be protected from this serious disease. Children under the age of 9 years may need 2 doses. Talk to your child\'s healthcare provider to find out if your child needs more than 1 dose.</item>
+        <item>Your child should receive 2 doses of MMR vaccine. The first dose should be given at 12 to 15 months, and the second dose at 4 to 6 years.</item>
+        <item>Meningococcal conjugate vaccine (MCV) is recommended for infants and children with certain health conditions. Talk with your healthcare provider to find out if your child needs MCV. Two doses are recommended for all children starting at age 11 years.</item>
+        <item>Your child should receive 4 doses of pneumococcal conjugate vaccine (PCV). The first dose is given at 2 months, the second dose at 4 months, the third at 6 months, and the fourth at 12–15 months. Some children need an additional dose of pneumococcal vaccine. Check with your healthcare provider to see if your child needs extra protection against pneumococcal disease.</item>
+        <item>Your child should receive 4 doses of polio vaccine (IPV). The first dose is given at 2 months, the second dose at 4 months, the third dose at 6 to 18 months, and the fourth dose at 4 to 6 years.</item>
+        <item>Your child needs 2 to 3 doses of rotavirus vaccine (RV), depending on the brand of vaccine. The first dose is given at 2 months, the second dose at 4 months, and the third dose (if needed) at 6 months.</item>
+        <item>Talk to your child\'s healthcare provider to find out when your child needs to receive a dose of Tdap vaccine. Usually, the first dose is given at age 11 to 12 years. Some children who have fallen behind on their vaccinations will need a dose at age 7 to 10 years.</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>

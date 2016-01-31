@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/background"
+    android:onClick="cancelVaccinationReminder"
+
+    tools:context="batch9.upcomingdevelopers.com.icare.VaccinationReminderActivity">
+
+    <TextView
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="User"
+        android:textSize="20sp"
+        android:id="@+id/userVaccinationReminderActivityTV"
+        android:textStyle="bold"
+        android:textColor="#99ffffff"
+        android:textColorHint="#50ffffff"
+        />
+    <TextView
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Vaccine"
+        android:layout_marginTop="5dp"
+        android:id="@+id/vaccineVaccinationReminderActivityTV"
+        android:textStyle="bold"
+        android:textColor="#99ffffff"
+        android:textColorHint="#50ffffff" />
+    <TextView
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:minHeight="35dp"
+        android:maxHeight="150dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Details"
+        android:minLines="1"
+        android:maxLines="5"
+        android:textStyle="bold"
+        android:textColor="#99ffffff"
+        android:textColorHint="#50ffffff"
+        android:id="@+id/detailsVaccinationReminderActivityTV" />
+
+</LinearLayout>

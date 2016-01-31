@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"
+        android:orientation="vertical"
+        android:padding="10dp"
+        tools:context="batch9.upcomingdevelopers.com.icare.AddVaccinationActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/shape_round"
+            android:gravity="center_vertical">
+
+            <EditText
+                android:id="@+id/nameAddVaccineEv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:hint="Vaccine Name"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#99ffffff"
+                android:textColorHint="#99ffffff"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/shape_round"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/datePickerAddVaccineTv"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:onClick="datePicker"
+                android:gravity="center"
+                android:text="Pick Date"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#99ffffff"
+                android:textColorHint="#99ffffff"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/shape_round"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/timePickerAddVaccineTv"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:onClick="timePicker"
+                android:text="Pick Time"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#99ffffff"
+                android:textColorHint="#99ffffff"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/shape_round"
+            android:gravity="center_vertical">
+
+            <EditText
+                android:id="@+id/detailAddVaccineEv"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:hint="Detail"
+                android:gravity="center"
+                android:inputType="textMultiLine"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#99ffffff"
+                android:textColorHint="#99ffffff"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/shape_round"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="Reminder"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#99ffffff"
+                android:textColorHint="#99ffffff"/>
+
+            <Switch
+                android:id="@+id/reminderAddVaccineSwitch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp" />
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
